@@ -1,0 +1,16 @@
+speeder
+speeder.png
+1000
+600
+juggernaut
+juggernaut.png
+5000
+150
+druid
+druid.png
+3000
+300
+sport
+sport.png
+2000
+450
